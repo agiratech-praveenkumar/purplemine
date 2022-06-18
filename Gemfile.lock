@@ -298,7 +298,7 @@ DEPENDENCIES
   net-pop (~> 0.1.1)
   net-smtp (~> 0.3.0)
   nokogiri (~> 1.13.4)
-  pg (~> 1.2.2)
+  pg
   puma
   rails (= 6.1.6)
   rails-dom-testing
